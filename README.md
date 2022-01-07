@@ -1,5 +1,7 @@
 # Frontend de uma Loja Virtual com Vue 3
 
+Link da Aplicação: https://loja-virtual-vue3.netlify.app/#/
+
 ![image](https://user-images.githubusercontent.com/44420212/148600650-d14ec0c5-eb13-4898-9e3c-602c5f27725c.png)
 
 
